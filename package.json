@@ -7,15 +7,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "",
-    "url": ""
+    "type": "gti",
+    "url": "https://github.com/mssatyasource/weatherReader.git"
   },
-  "author": "",
+  "author": "Satya Sudhakar Mukkamala",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/mssatyasource/weatherReader.git"
   },
-  "homepage": "",
+  "homepage": "https://github.com/mssatyasource/",
   "dependencies": {
     "axios": "^0.18.1",
     "yargs": "^13.2.2",
