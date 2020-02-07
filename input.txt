@@ -1,0 +1,8 @@
+"Fremont","94536"
+"San Francisco","94016"
+"Fremont","94536"
+"San Francisco","94016"
+"Fremont","94536"
+"San Francisco","94016"
+"Fremont","94536"
+"San Francisco","94016"
